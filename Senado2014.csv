@@ -1,34 +1,34 @@
-Dpto; Partido; Votos; Sufragantes; Porcentaje
-Bogotaÿ;Centro Democratico;373798;1844016;20.27
-Amazonas;Centro Democratico;3629;21659;16.75
-Antioquia;Centro Democratico;436896;1692837;25.80
-Arauca;Centro Democratico;18934;72079;26.26
-Atlantico;Conservador;256433;888027;28.87
-Bolivar;De La U;140342;662814;21.17
-Boyacaÿ;Conservador;74440;415882;17.89
-Caldas;De La U;73468;371438;19.77
-Caquetaÿ;Centro Democratico;21509;97564;22.04
-Casanare;Centro Democratico;31736;120169;26.40
-Cauca;Liberal;83142;372825;22.30
-Cesar;De La U;92945;320186;29.02
-Choco;De La U;26923;124677;21.59
-Cordoba;De La U;274603;665813;41.24
-Cundinamarca;Centro Democratico;133349;737392;18.08
-Guania;Centro Democratico;1807;11475;15.74
-Guaviare;De La U;5645;26276;21.48
-Huila;Centro Democratico;73398;345259;21.25
-Guajira;De La U;60578;221631;27.33
-Magdalena;De La U;109817;425676;25.79
-Meta;De La U;107183;311184;34.44
-Narino;Conservador;134202;532934;25.18
-Norte Santander;Conservador;96742;487234;19.85
-Putumayo;Liberal;24432;84483;28.91
-Quindio;Centro Democratico;37835;223636;16.91
-Risaralda;Centro Democratico;54231;330515;16.40
-San Andres;Liberal;3292;16026;20.54
-Santander;Liberal;149942;733111;20.45
-Sucre;Opcion Ciudadana;96430;403056;23.92
-Tolima;Centro Democratico;82360;454934;18.10
-Valle;De La U;181852;1217266;14.93
-Vaupes;De La U;856;9202;9.30
-Vichada;Centro Democratico;4272;19920;21.44
+Dpto, Partido, Votos, Sufragantes, Porcentaje,
+BogotaÂ ,Centro Democratico,373798,1844016,20.27,20.2708653287173
+Amazonas,Centro Democratico,3629,21659,16.75,16.7551595179833
+Antioquia,Centro Democratico,436896,1692837,25.80,25.8085096202411
+Arauca,Centro Democratico,18934,72079,26.26,26.2683999500548
+Atlantico,Conservador,256433,888027,28.87,28.8767120819525
+Bolivar,De La U,140342,662814,21.17,21.1736625961431
+BoyacaÂ ,Conservador,74440,415882,17.89,17.8993079767819
+Caldas,De La U,73468,371438,19.77,19.7793440628046
+CaquetaÂ ,Centro Democratico,21509,97564,22.04,22.0460415727112
+Casanare,Centro Democratico,31736,120169,26.40,26.4094733250672
+Cauca,Liberal,83142,372825,22.30,22.3005431502716
+Cesar,De La U,92945,320186,29.02,29.0284397194131
+Choco,De La U,26923,124677,21.59,21.5941994112787
+Cordoba,De La U,274603,665813,41.24,41.2432619969871
+Cundinamarca,Centro Democratico,133349,737392,18.08,18.0838685529542
+Guania,Centro Democratico,1807,11475,15.74,15.7472766884532
+Guaviare,De La U,5645,26276,21.48,21.4834830263358
+Huila,Centro Democratico,73398,345259,21.25,21.2588230864366
+Guajira,De La U,60578,221631,27.33,27.332818964856
+Magdalena,De La U,109817,425676,25.79,25.7982597092624
+Meta,De La U,107183,311184,34.44,34.4436089259088
+Narino,Conservador,134202,532934,25.18,25.1817298202029
+Norte Santander,Conservador,96742,487234,19.85,19.8553467122574
+Putumayo,Liberal,24432,84483,28.91,28.9194275771457
+Quindio,Centro Democratico,37835,223636,16.91,16.9181169400275
+Risaralda,Centro Democratico,54231,330515,16.40,16.4080298927431
+San Andres,Liberal,3292,16026,20.54,20.541619867715
+Santander,Liberal,149942,733111,20.45,20.4528372920335
+Sucre,Opcion Ciudadana,96430,403056,23.92,23.9247151760549
+Tolima,Centro Democratico,82360,454934,18.10,18.1037249359248
+Valle,De La U,181852,1217266,14.93,14.9393805462405
+Vaupes,De La U,856,9202,9.30,9.30232558139535
+Vichada,Centro Democratico,4272,19920,21.44,21.4457831325301
