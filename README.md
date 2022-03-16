@@ -2,7 +2,7 @@
 Se presentan los resultados del Taller #2 del curso de Introducción a la Ciencia de Datos.
 
 ## Pregunta a Responder
-**Es posible estimar si habrá un cambio en el partido con mayor cantidad de votos para las elecciones del Senado Colombiano por cada departamento?**
+**¿Es posible estimar si habrá un cambio en el partido con mayor cantidad de votos para las elecciones del Senado Colombiano por cada departamento?**
 
 ## Datos Utilizados
 Los datos utilizados fueron obtenidos a partir del **MOE** (Misión de Observación Electoral) y la Registraduría Nacional del Estado Civil de Colombia.
@@ -92,7 +92,7 @@ Asimismo, se realizaron curvas de precisión vs cobertura (recall) y de F1-Score
 
 ## Resultados
 
-Se obtuvo un modelo capaz de predecir, con una precisión del 57%, si habrá un cambio en el partido que mayor cantidad de votos tenga, para las elecciones del Senado Colombiano, en cada departamento. Para el caso de las elecciones legislativas del 2022, los resultados son los se resumen en el siguiente mapa:
+Se obtuvo un modelo capaz de predecir, con una precisión del 57%, si habrá un cambio en el partido que mayor cantidad de votos tenga, para las elecciones del Senado Colombiano, en cada departamento. Para el caso de las elecciones legislativas del 2022, los resultados se resumen en el siguiente mapa:
 
 <!--- https://simplemaps.com/custom/country/jpO8h3sO#states --->
 
