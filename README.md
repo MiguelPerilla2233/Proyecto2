@@ -46,7 +46,7 @@ alpha_mean = 0.80437705893299
 beta_mean = -2.2899558310652495
 ```
 
-Así, por medio de una regresión logística, se obtuvo el siguiente modelo:
+Así, por utilizando los coeficientes obtenidos para la regresión logística, se obtuvo el siguiente modelo:
 
 <p align="center">
   <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/model.png?raw=true">
