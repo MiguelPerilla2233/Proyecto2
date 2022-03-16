@@ -8,8 +8,9 @@ Se presentan los resultados del Taller #2 del curso de Introducción a la Cienci
 Los datos utilizados fueron obtenidos a partir del **MOE** (Misión de Observación Electoral) y la Registraduría Nacional del Estado Civil de Colombia.
 
 Los datos, ya limpios, consisten de 5 columnas: departamento, partido con mayor número de votos, votos, sufragantes totales y porcentaje de votos correspondientes al partido mayoritario. Un extracto ejemplo de los datos correspondientes a las elecciones del 2014 se presenta a continuación:
+
 | Departamento | Partido | Votos | Sufragantes | Porcentaje |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | Bogotá D.C. | Centro Democrático | 373798 | 1844016 | 20.27 |
 | Antioquia | Centro Democrático | 436896 | 1692837 | 25.80 |
 | Atlántico | Partido Conservador | 256433 | 888027 | 21.17 |
