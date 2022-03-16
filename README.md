@@ -20,10 +20,10 @@ Los datos, ya limpios, consisten de 5 columnas: departamento, partido con mayor 
 
 ## Procedimiento
 
-Text:
+Inicialmente, tomando los datos de las elecciones del 2014 y del 2018, se compararon los partidos con mayor cantidad de votos en cada departamento y, si éste era diferente se asignaba el valor de 0, o 1 de lo contario. Asimismo, se obtuvo la diferencia entre la fracción de votos que el partido mayoritario obtuvo en cada caso. Así, por medio de una regresión logística, se obtuvo el siguiente modelo:
 
 <p align="center">
-  <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/.png?raw=true">
+  <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/model.png?raw=true">
 </p>
 
 ## Resultados
