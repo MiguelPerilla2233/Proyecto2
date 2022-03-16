@@ -20,14 +20,33 @@ Los datos, ya limpios, consisten de 5 columnas: departamento, partido con mayor 
 
 ## Procedimiento
 
-Inicialmente, tomando los datos de las elecciones del 2014 y del 2018, se compararon los partidos con mayor cantidad de votos en cada departamento y, si éste era diferente, se asignaba el valor de 0, o 1 de lo contario. Esto es:
+Inicialmente, tomando los datos de las elecciones del 2014 y del 2018, se compararon los partidos con mayor cantidad de votos en cada departamento, asignando el valor de 0 si hubo un cambio en el mismo y 1 de lo contrario. Esto se representa en la siguiente lista:
 
 ```python
 [1., 1., 1., 1., 1., 0., 1., 0., 0., 1., 1., 0., 1., 0., 0., 1., 1.,
        0., 0., 1., 0., 0., 0., 0., 1., 1., 1., 1., 1., 1., 1., 1., 1.]
 ```
 
-Asimismo, se obtuvo la diferencia entre la fracción de votos que el partido mayoritario obtuvo en cada caso. Así, por medio de una regresión logística, se obtuvo el siguiente modelo:
+Asimismo, se obtuvo la diferencia porcental de votos que el partido mayoritario obtuvo en cada caso. Con esto, obtenemos la siguiente gráfica:
+
+<p align="center">
+  <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/data.png?raw=true">
+</p>
+
+Ahora, queremos hacer una regresión logística para ajustar los datos. Para esto, se utilizó el método de Metropolis Hastings, obteniendo así una distribución de probabilidad para los coeficientes de la regresión:
+
+<p align="center">
+  <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/alphasbetas.png?raw=true">
+</p>
+
+Entonces, teniendo estas distribuciones de probabilidad, se obtuvo el valor medio como el mejor estimado, teniendo los siguientes valores para el caso en particular:
+
+```python
+alpha_mean = 0.80437705893299
+beta_mean = -2.2899558310652495
+```
+
+Así, por utilizando los coeficientes obtenidos para la regresión logística, se obtuvo el siguiente modelo:
 
 <p align="center">
   <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/model.png?raw=true">
