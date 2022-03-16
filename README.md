@@ -80,7 +80,7 @@ F1-Score (0): 0.6451612903225806
 F1-Score (1): 0.6857142857142857
 ```
 
-Asimismo, se realizaron curvas de precisión vs cobertura (recall) y de F1-Score vs Probabilidad:
+Asimismo, se realizaron curvas de precisión vs cobertura (recall) y de F1-Score vs probabilidad:
 
 <p align="center">
   <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/recall_precision.png?raw=true">
