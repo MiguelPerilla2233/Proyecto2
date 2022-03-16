@@ -76,5 +76,7 @@ Asimismo, se realizaron curvas de precisión vs cobertura (recall) y de F1-Score
 Se obtuvo un modelo capaz de predecir, con una precisión del 57%, si habrá un cambio en el partido que mayor cantidad de votos tenga, para las elecciones del Senado Colombiano, en cada departamento. Para el caso de las elecciones legislativas del 2022, los resultados se resumen en el siguiente mapa:
 
 <p align="center">
-  <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/probability_f1score.png?raw=true">
+  <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/map.png?raw=true">
 </p>
+
+Donde se muestran en verde los departamentos en los que el modelo predijo correctamente si hubo o no un cambio en el partido con el mayor número de votos y en rojo los departamentos en los que el modelo no lo hizo.
