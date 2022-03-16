@@ -20,7 +20,7 @@ Los datos, ya limpios, consisten de 5 columnas: departamento, partido con mayor 
 
 ## Procedimiento
 
-Inicialmente, tomando los datos de las elecciones del 2014 y del 2018, se compararon los partidos con mayor cantidad de votos en cada departamento y, si éste era diferente, se asignaba el valor de 0, o 1 de lo contario. Esto es:
+Inicialmente, tomando los datos de las elecciones del 2014 y del 2018, se compararon los partidos con mayor cantidad de votos en cada departamento, asignando el valor de 0 si hubo un cambio en el mismo y 1 de lo contrario. Esto se representa en la siguiente lista:
 
 ```python
 [1., 1., 1., 1., 1., 0., 1., 0., 0., 1., 1., 0., 1., 0., 0., 1., 1.,
