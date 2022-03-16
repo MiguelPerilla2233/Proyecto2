@@ -100,4 +100,4 @@ Se obtuvo un modelo capaz de predecir, con una precisión del 57%, si habrá un 
   <img src="https://github.com/MiguelPerilla2233/Proyecto2/blob/main/results/map.png?raw=true">
 </p>
 
-Donde se muestran en verde los departamentos en los que el modelo predijo correctamente si hubo o no un cambio en el partido con el mayor número de votos y en rojo los departamentos en los que el modelo no lo hizo.
+Donde se muestran en verde claro los departamentos dónde el modelo predijo que sí habría un cambio y lo hubo, en verde oscuro en los que el modelo predijo que no habría un cambio y no lo hubo, en rojo claro en los que el modelo predijo que sí habría un cambio y no lo hubo y en rojo oscuro en los que el modelo predijo que no habría un cambio y sí lo hubo.
